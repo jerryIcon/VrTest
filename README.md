@@ -94,10 +94,6 @@ http.createServer(function(req, res) {
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200721144808719.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzcyMzg3Nw==,size_16,color_FFFFFF,t_70 =300x)
 成功啦！是不是非常简单！
 
-# gitee地址
-最后附上gitee地址：
-
-
 
 
 
